@@ -1,10 +1,10 @@
 The following are the steps to be done to be able to build, deploy and test the search-count application.
 
-1. Download the search-count source codes from the repository
+1. Download the search-count source codes from the repository.
 
 2. Build the search-count project using maven.
 
-3. Run the application by executing the main SearchCountApplication (Spring boot). Current port is 8080, changes can be made in application.properties.
+3. Run the application by executing the main SearchCountApplication (Spring boot). Current port is 8080, changes can be made in application.properties file.
 
 Problems:
 
