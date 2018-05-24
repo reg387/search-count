@@ -6,6 +6,8 @@ The following are the steps to be done to be able to build, deploy and test the 
 
 3. Run the application by executing the main SearchCountApplication (Spring boot). Current port is 8080, changes can be made in application.properties file.
 
+4. The base64 encoded for user inteliment:inteliment used is aW50ZWxpbWVudDppbnRlbGltZW50. This is added in the authorization header of the each request.
+
 Problems:
 
 1: Search the following texts, which will return the counts respectively.
