@@ -14,7 +14,8 @@ Request: $ curl http://localhost:8080/counter-api/search -H "Authorization: Basi
 
 Response: {"counts": [{"Duis": 11}, {"Sed": 16}, {"Donec": 8}, {"Augue": 7}, {"Pellentesque": 6},{"123": 0}]}
 
-2: Task 2: Provide the top 20 (as Path Variable) Texts, which has the highest counts in the Sample Paragraphs provided.
+
+2: Provide the top 20 (as Path Variable) Texts, which has the highest counts in the Sample Paragraphs provided.
 
 Request: curl curl http://localhost:8080/counter-api/top/10 -H "Authorization: Basic aW50ZWxpbWVudDppbnRlbGltZW50" -H "Accept:text/csv"
 
